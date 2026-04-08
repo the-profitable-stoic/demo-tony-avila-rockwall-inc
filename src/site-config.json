@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tony Avila Rockwall, Inc.",
+    "phone": "+19153134706",
+    "category": "masonry contractor",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Masonry Authority",
+      "heroSubline": "Craftsmanship you can see, strength you can trust. Tony Avila Rockwall, Inc. delivers exceptional masonry services across El Paso.",
+      "aboutTitle": "Built on Integrity, Stone by Stone",
+      "aboutText": [
+        "Tony Avila Rockwall, Inc. started with a simple mission: to provide El Paso with unparalleled masonry services built on honesty and hard work. Founded by Tony Avila, a lifelong El Pasoan, we understand the unique challenges and opportunities presented by our desert environment and diverse architectural styles.",
+        "Our approach is hands-on and detail-oriented. We believe in clear communication, transparent pricing, and unwavering commitment to quality. We treat every project, from small repairs to large-scale construction, with the same level of care and precision.",
+        "We're proud to be a part of the El Paso community. We actively support local initiatives and strive to build lasting relationships with our clients and neighbors. When you choose Tony Avila Rockwall, Inc., you're choosing a partner dedicated to your satisfaction and the betterment of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of El Paso's climate, architecture, and building codes."
+        },
+        {
+          "title": "Unwavering Quality",
+          "description": "Skilled craftsmanship and premium materials for lasting results."
+        },
+        {
+          "title": "Transparent Process",
+          "description": "Clear communication and straightforward pricing from start to finish."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Dedicated team committed to on-time completion and exceeding expectations."
+        }
+      ],
+      "ctaHeadline": "Ready to Build Something Great?",
+      "ctaSubline": "Contact Tony Avila Rockwall, Inc. today for a free consultation and let's discuss your masonry needs."
+    },
+    "services": [
+      {
+        "slug": "brick-masonry",
+        "name": "Brick Masonry",
+        "shortDescription": "Expert brickwork for durable and beautiful structures.",
+        "description": "From classic red brick homes to intricate commercial facades, Tony Avila Rockwall, Inc. delivers exceptional brick masonry services throughout El Paso. We understand the nuances of bricklaying, ensuring proper mortar joints, precise alignment, and long-lasting structural integrity. Our team is experienced in all types of brick patterns and can create custom designs to enhance your property's aesthetic appeal. We specialize in new construction, brick repairs, and historical restoration projects, always adhering to the highest standards of craftsmanship. Whether you're building a new home in the Upper Valley or restoring a historic building in Sunset Heights, you can depend on us for quality brickwork that stands the test of time.\n\nWe carefully select bricks that not only complement the architectural style but also withstand El Paso's harsh desert climate. Our brick masonry services include brick veneer installation, brick paving, brick fences, and more. We take pride in our attention to detail and our commitment to delivering projects on time and within budget.\n\nOur commitment to quality extends beyond the installation process. We provide expert advice on brick selection, maintenance, and repair, ensuring that your brick structures remain beautiful and durable for years to come.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your vision and create a detailed plan.",
+          "Step 2: Material Selection – Choose the perfect bricks and mortar for your project.",
+          "Step 3: Expert Installation – Skilled bricklayers execute the project with precision.",
+          "Step 4: Quality Inspection – Thorough review to ensure lasting durability and aesthetic appeal."
+        ],
+        "benefits": [
+          "Enhanced property value",
+          "Increased curb appeal",
+          "Durable and long-lasting construction",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "What type of brick is best for El Paso's climate?",
+            "answer": "Clay bricks are generally the most suitable due to their durability and resistance to extreme temperatures and minimal moisture. We can advise on specific types based on your project's requirements."
+          },
+          {
+            "question": "How long does brick masonry typically last?",
+            "answer": "With proper installation and maintenance, brick masonry can last for over 100 years. Regular inspections and timely repairs can further extend its lifespan."
+          },
+          {
+            "question": "Can you match existing brick for repairs?",
+            "answer": "Yes, we have extensive experience matching existing brick types and mortar colors to ensure seamless repairs that blend seamlessly with the original construction."
+          }
+        ]
+      },
+      {
+        "slug": "stone-masonry",
+        "name": "Stone Masonry",
+        "shortDescription": "Timeless elegance and enduring strength with custom stone installations.",
+        "description": "Tony Avila Rockwall, Inc. brings the natural beauty and enduring strength of stone to your El Paso property. From elegant stone facades to rugged retaining walls, we offer comprehensive stone masonry services tailored to your unique needs. We source a variety of high-quality stones, including limestone, granite, and sandstone, to create stunning and durable structures that enhance your property's value and curb appeal.\n\nOur skilled stonemasons are adept at both traditional and modern techniques, ensuring precise cuts, seamless joints, and impeccable craftsmanship. We specialize in stone veneer installation, stone patios, stone fireplaces, and custom stone features. We pride ourselves on our attention to detail and our commitment to delivering projects that exceed expectations. Whether you're looking to add a touch of rustic charm to your Kern Place home or create a striking entrance for your commercial building in the Downtown Arts District, Tony Avila Rockwall, Inc. has the expertise to bring your vision to life.\n\nWe understand the importance of selecting the right stone for El Paso's climate and soil conditions. We provide expert guidance on stone selection, ensuring that your stone structures remain beautiful and durable for years to come. Our stone masonry services also include stone cleaning, sealing, and repair, helping you maintain the beauty and integrity of your stone features.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your design preferences and select the appropriate stone.",
+          "Step 2: Stone Selection and Preparation – Source high-quality stone and prepare it for installation.",
+          "Step 3: Expert Stone Masonry – Skilled masons carefully install the stone with precision and artistry.",
+          "Step 4: Sealing and Finishing – Apply protective sealants to enhance durability and appearance."
+        ],
+        "benefits": [
+          "Enhanced aesthetic appeal",
+          "Increased property value",
+          "Durable and weather-resistant",
+          "Unique and customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "What types of stone are best suited for El Paso's climate?",
+            "answer": "Limestone, granite, and sandstone are all excellent choices for El Paso's climate due to their durability and resistance to extreme temperatures and minimal moisture. We can advise on specific types based on your project's requirements."
+          },
+          {
+            "question": "How often should stone masonry be sealed?",
+            "answer": "Stone masonry should be sealed every 2-3 years to protect it from the elements and prevent staining. We offer professional sealing services to keep your stone looking its best."
+          },
+          {
+            "question": "Can you repair damaged stone masonry?",
+            "answer": "Yes, we have extensive experience repairing damaged stone masonry, including cracks, chips, and spalling. We use specialized techniques and materials to restore your stone to its original beauty."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-block-masonry",
+        "name": "Concrete Block Masonry",
+        "shortDescription": "Strong, reliable, and cost-effective concrete block construction.",
+        "description": "For durable and cost-effective construction solutions in El Paso, trust Tony Avila Rockwall, Inc. for expert concrete block masonry. We specialize in building strong and reliable structures using concrete blocks, also known as CMUs (Concrete Masonry Units). Our skilled masons have extensive experience in constructing foundations, walls, retaining walls, and other structural elements using concrete blocks.\n\nConcrete block masonry is an ideal choice for projects requiring strength, durability, and fire resistance. It's also a cost-effective alternative to brick or stone masonry. We ensure that all our concrete block installations meet or exceed local building codes and regulations. We handle projects of all sizes, from small residential additions to large commercial buildings. Our services include concrete block wall construction, concrete block foundation repair, and concrete block retaining wall installation.\n\nWe understand the importance of proper concrete block installation to ensure structural integrity and longevity. Our masons use precise techniques to ensure that blocks are properly aligned, mortared, and reinforced. We also offer a variety of finishes, including stucco, paint, and veneer, to enhance the aesthetic appeal of concrete block structures.",
+        "process": [
+          "Step 1: Site Preparation – Prepare the site and lay the foundation for concrete block construction.",
+          "Step 2: Block Placement – Carefully place and align concrete blocks with precision.",
+          "Step 3: Mortar Application – Apply mortar to create strong and secure joints between blocks.",
+          "Step 4: Reinforcement – Reinforce the structure with steel rebar for added strength and stability."
+        ],
+        "benefits": [
+          "Cost-effective construction",
+          "Durable and fire-resistant",
+          "Strong and reliable",
+          "Versatile design options"
+        ],
+        "faq": [
+          {
+            "question": "What are the advantages of concrete block masonry?",
+            "answer": "Concrete block masonry is cost-effective, durable, fire-resistant, and strong. It's also a versatile building material that can be used for a variety of applications."
+          },
+          {
+            "question": "How long does concrete block masonry last?",
+            "answer": "With proper installation and maintenance, concrete block masonry can last for over 50 years. Regular inspections and timely repairs can further extend its lifespan."
+          },
+          {
+            "question": "Can you apply stucco over concrete block?",
+            "answer": "Yes, stucco can be applied over concrete block to create a smooth and aesthetically pleasing finish. We offer professional stucco application services for concrete block structures."
+          }
+        ]
+      },
+      {
+        "slug": "stucco",
+        "name": "Stucco Services",
+        "shortDescription": "Durable and beautiful stucco finishes for El Paso homes.",
+        "description": "Protect and beautify your El Paso home with Tony Avila Rockwall, Inc.'s expert stucco services. Stucco is a popular choice for El Paso homes due to its durability, energy efficiency, and aesthetic appeal. Our skilled stucco applicators have years of experience in applying stucco to both new and existing homes. We offer a variety of stucco textures and colors to match your home's architectural style and personal preferences.\n\nWe use only the highest quality stucco materials and techniques to ensure a long-lasting and beautiful finish. Our stucco services include stucco application, stucco repair, stucco patching, and stucco texturing. We pride ourselves on our attention to detail and our commitment to delivering projects that exceed expectations. Whether you're building a new home in the Westside or renovating an existing home in Kern Place, Tony Avila Rockwall, Inc. has the expertise to provide you with a durable and aesthetically pleasing stucco finish.\n\nWe understand the importance of proper stucco application to prevent cracks and water damage. Our applicators use a multi-layer system to ensure a strong and waterproof stucco finish. We also offer stucco maintenance services to keep your stucco looking its best for years to come.",
+        "process": [
+          "Step 1: Surface Preparation – Clean and prepare the surface for stucco application.",
+          "Step 2: Scratch Coat – Apply a scratch coat to create a rough surface for the next layer.",
+          "Step 3: Brown Coat – Apply a brown coat to create a smooth and even surface.",
+          "Step 4: Finish Coat – Apply a finish coat with the desired texture and color."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Durable and weather-resistant",
+          "Low maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of stucco?",
+            "answer": "Stucco is durable, energy-efficient, weather-resistant, and low maintenance. It's also a versatile material that can be textured and colored to match any architectural style."
+          },
+          {
+            "question": "How long does stucco last?",
+            "answer": "With proper installation and maintenance, stucco can last for over 50 years. Regular inspections and timely repairs can further extend its lifespan."
+          },
+          {
+            "question": "How often should stucco be painted?",
+            "answer": "Stucco should be painted every 5-10 years to maintain its appearance and protect it from the elements. We offer professional stucco painting services."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Functional and beautiful retaining walls for landscaping and erosion control.",
+        "description": "Protect your property and enhance its beauty with Tony Avila Rockwall, Inc.'s expertly crafted retaining walls. Retaining walls are essential for preventing soil erosion, creating level surfaces for landscaping, and adding visual interest to your property. We design and build retaining walls using a variety of materials, including concrete blocks, natural stone, and timber. Our retaining walls are not only functional but also aesthetically pleasing, adding value and curb appeal to your property.\n\nWe understand the importance of proper retaining wall design and construction to ensure stability and longevity. Our experienced engineers and masons work together to create retaining walls that can withstand the forces of nature and provide long-lasting protection for your property. We handle projects of all sizes, from small residential retaining walls to large commercial retaining walls. Our services include retaining wall design, retaining wall construction, and retaining wall repair.\n\nOur retaining walls are designed to complement your property's landscape and architectural style. We offer a variety of finishes and textures to create a retaining wall that seamlessly blends with its surroundings. We also provide expert advice on retaining wall maintenance to ensure its long-term performance.",
+        "process": [
+          "Step 1: Site Assessment – Assess the site conditions and determine the appropriate retaining wall design.",
+          "Step 2: Design and Engineering – Design and engineer the retaining wall to ensure stability and longevity.",
+          "Step 3: Construction – Construct the retaining wall using high-quality materials and expert techniques.",
+          "Step 4: Backfilling and Drainage – Backfill the retaining wall and install drainage systems to prevent water damage."
+        ],
+        "benefits": [
+          "Prevents soil erosion",
+          "Creates level surfaces for landscaping",
+          "Adds visual interest to your property",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of retaining walls?",
+            "answer": "Retaining walls prevent soil erosion, create level surfaces for landscaping, add visual interest to your property, and increase property value."
+          },
+          {
+            "question": "What materials are used to build retaining walls?",
+            "answer": "Retaining walls can be built using concrete blocks, natural stone, timber, and other materials. The choice of material depends on the project's budget, aesthetic preferences, and structural requirements."
+          },
+          {
+            "question": "How long do retaining walls last?",
+            "answer": "With proper design and construction, retaining walls can last for over 50 years. Regular inspections and timely repairs can further extend its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "chimney-repair",
+        "name": "Chimney Repair & Restoration",
+        "shortDescription": "Expert chimney services to keep your fireplace safe and efficient.",
+        "description": "Tony Avila Rockwall, Inc. provides comprehensive chimney repair and restoration services to ensure the safety and efficiency of your fireplace. Chimneys are exposed to harsh weather conditions, which can lead to cracks, leaks, and other damage. Our experienced chimney technicians have the expertise to diagnose and repair all types of chimney problems, including damaged brickwork, cracked flue liners, and deteriorated mortar joints.\n\nWe use only the highest quality materials and techniques to restore your chimney to its original condition. Our chimney repair services include chimney brick repair, chimney flue liner replacement, chimney crown repair, and chimney waterproofing. We also offer chimney cleaning and inspection services to prevent future problems. Whether you have a minor chimney leak or a major structural issue, Tony Avila Rockwall, Inc. has the expertise to provide you with a safe and reliable chimney.\n\nWe understand the importance of a properly functioning chimney to ensure the safe venting of smoke and gases from your fireplace. Our technicians are trained to identify and correct any potential hazards to protect your home and family. We also provide expert advice on chimney maintenance to help you keep your chimney in good condition for years to come.",
+        "process": [
+          "Step 1: Chimney Inspection – Thoroughly inspect the chimney for damage and potential hazards.",
+          "Step 2: Diagnosis – Diagnose the cause of the chimney problem.",
+          "Step 3: Repair – Repair the chimney using high-quality materials and expert techniques.",
+          "Step 4: Cleaning – Clean the chimney to remove soot and debris."
+        ],
+        "benefits": [
+          "Ensures safe venting of smoke and gases",
+          "Prevents chimney leaks",
+          "Extends the lifespan of your chimney",
+          "Improves fireplace efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my chimney inspected?",
+            "answer": "You should have your chimney inspected at least once a year to ensure that it's in good condition and free from hazards."
+          },
+          {
+            "question": "What are the signs of chimney damage?",
+            "answer": "Signs of chimney damage include cracks, leaks, spalling brick, and deteriorated mortar joints."
+          },
+          {
+            "question": "How can I prevent chimney problems?",
+            "answer": "You can prevent chimney problems by having your chimney inspected and cleaned regularly, repairing any damage promptly, and using a chimney cap to prevent debris from entering the chimney."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. is proud to offer premium masonry services to the residents and businesses of El Paso, Texas. With years of experience serving the Sun City, we understand the unique architectural styles and environmental factors that impact masonry work in this region. From custom rock walls and elegant brick patios to durable retaining walls and expert repairs, we are committed to providing exceptional craftsmanship and outstanding customer service.\n\nWe use only the highest quality materials sourced from trusted local suppliers, ensuring that your project stands the test of time and enhances the beauty and value of your property. Whether you're looking to add a touch of Southwestern charm to your home or need reliable commercial masonry solutions, Tony Avila Rockwall, Inc. is your trusted partner in El Paso.",
+        "localContext": "El Paso, known for its vibrant culture and stunning desert landscapes, demands masonry that can withstand the harsh climate while complementing the city's unique aesthetic. We understand the importance of blending functionality with regional style.",
+        "nearbyAreas": [
+          "Socorro",
+          "Anthony",
+          "Canutillo"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. extends its expert masonry services to the community of Socorro, Texas. We understand the specific needs of Socorro residents, from residential projects requiring a personal touch to commercial ventures demanding durability and aesthetic appeal. Our team is equipped to handle a wide range of masonry projects, ensuring quality results every time.\n\nWe pride ourselves on using the best materials and techniques to deliver long-lasting and visually appealing masonry work. Whether you're envisioning a new stone fireplace, a sturdy brick fence, or essential repairs to existing structures, Tony Avila Rockwall, Inc. is dedicated to exceeding your expectations in Socorro.",
+        "localContext": "Socorro, steeped in rich history and community spirit, demands masonry work that respects its heritage while providing modern durability. We are committed to providing services that enhance the town's unique character.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. is pleased to serve the residents and businesses of Anthony, Texas, with comprehensive masonry solutions. We recognize the importance of reliable and aesthetically pleasing masonry in this thriving community and are dedicated to providing top-notch services that meet your specific needs.\n\nFrom designing and building custom rock features to repairing and restoring existing masonry structures, our skilled team is committed to delivering exceptional craftsmanship and customer satisfaction. We use only the highest quality materials to ensure that your project withstands the test of time and enhances the beauty of your property in Anthony.",
+        "localContext": "Anthony, a growing community with a strong sense of pride, seeks masonry that reflects its values of quality and lasting beauty. We aim to provide services that contribute to the town's thriving atmosphere.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. proudly serves the community of Canutillo, Texas, offering a wide range of masonry services tailored to meet the unique needs of this area. We understand the local architectural styles and environmental considerations, ensuring that our work seamlessly integrates with the existing landscape.\n\nWhether you're looking to enhance your home with a beautiful stone facade, create a durable and functional outdoor living space, or require expert repairs to existing masonry structures, Tony Avila Rockwall, Inc. is committed to delivering exceptional quality and customer satisfaction in Canutillo. We prioritize using premium materials and employing skilled craftsmanship to ensure long-lasting results.",
+        "localContext": "Canutillo, with its blend of rural charm and modern development, needs masonry that balances functionality with aesthetic appeal. We strive to deliver services that enhance the community's unique character.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. is dedicated to providing expert masonry services to the residents and businesses of Clint, Texas. We understand the importance of quality craftsmanship and durable materials in this community and are committed to exceeding your expectations with every project.\n\nFrom building custom rock walls and patios to repairing and restoring existing masonry structures, our skilled team is equipped to handle a wide range of projects. We prioritize using the best materials and techniques to ensure that your investment stands the test of time and enhances the beauty of your property in Clint.",
+        "localContext": "Clint, a town proud of its heritage, requires masonry services that respect its roots while providing modern solutions. We are committed to providing services that enhance the town's unique charm.",
+        "nearbyAreas": [
+          "Socorro",
+          "San Elizario",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. is pleased to offer its professional masonry services to the historic town of San Elizario, Texas. We appreciate the unique architectural heritage of this area and strive to provide services that complement and enhance its beauty.\n\nOur team is experienced in working with a variety of masonry materials and techniques, ensuring that your project is completed to the highest standards of quality and craftsmanship. Whether you're looking to restore a historic building, build a new rock wall, or create a custom outdoor living space, Tony Avila Rockwall, Inc. is your trusted partner in San Elizario.",
+        "localContext": "San Elizario, rich in history and tradition, deserves masonry services that respect its past while providing durable and aesthetically pleasing solutions for the future. We are dedicated to preserving the town's unique character.",
+        "nearbyAreas": [
+          "Socorro",
+          "Clint",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. extends its professional masonry services to Horizon City, Texas. We understand the needs of a growing community and strive to provide top-quality workmanship for both residential and commercial projects. Our services range from decorative stone work to structural masonry, all performed with the highest level of expertise.\n\nWe use only the finest materials to ensure that your masonry project is both beautiful and durable. Whether you're building a new home, adding a retaining wall, or repairing existing masonry, we are ready to help you achieve your vision in Horizon City.",
+        "localContext": "Horizon City, a rapidly developing area, needs masonry services that can keep pace with its growth while maintaining high standards of quality and aesthetics. We are committed to providing reliable and visually appealing solutions.",
+        "nearbyAreas": [
+          "Clint",
+          "San Elizario",
+          "Socorro"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Tony Avila Rockwall, Inc. is proud to offer expert masonry services to the community of Vinton, Texas. We understand the unique needs and preferences of Vinton residents and are dedicated to providing customized solutions that meet their specific requirements.\n\nWhether you're looking to enhance your home with a beautiful stone patio, create a durable brick walkway, or require expert repairs to existing masonry structures, our skilled team is committed to delivering exceptional quality and customer satisfaction in Vinton. We prioritize using premium materials and employing skilled craftsmanship to ensure long-lasting results.",
+        "localContext": "Vinton, a close-knit community, appreciates masonry that reflects its values of quality, reliability, and attention to detail. We strive to provide services that enhance the town's unique charm.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Brick Masonry",
+        "text": "Tony and his crew did an excellent job on our new brick patio. They were professional, efficient, and the final product looks amazing! Highly recommend them for any brickwork project.",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Stucco Repair",
+        "text": "We had some significant cracks in our stucco after the winter freeze. Tony Avila Rockwall, Inc. came out and repaired it quickly and seamlessly. You can't even tell there was damage before. Great service!",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Stone Masonry",
+        "text": "Tony and his team created a beautiful stone fireplace for our living room. They were very attentive to our design ideas and the craftsmanship is outstanding. It's the centerpiece of our home now!",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Retaining Wall",
+        "text": "We needed a retaining wall built to prevent erosion in our backyard. Tony Avila Rockwall, Inc. provided a sturdy and aesthetically pleasing solution. They were reliable and easy to work with.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Chimney Repair",
+        "text": "Our chimney was leaking, and Tony fixed it quickly and efficiently. He explained the problem clearly and provided a fair price. Very professional service.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Concrete Block Masonry",
+        "text": "Tony Avila Rockwall, Inc. built a solid and durable concrete block wall for our commercial property. The work was completed on time and within budget. We are very satisfied with the results.",
+        "date": "2025-01-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "El Paso Masonry Contractor | Tony Avila Rockwall",
+        "description": "Expert masonry services in El Paso, TX. Brick, stone, stucco, retaining walls & more. Quality craftsmanship & reliable service."
+      },
+      "about": {
+        "title": "About Us | Tony Avila Rockwall, Inc.",
+        "description": "Learn about Tony Avila Rockwall, Inc.'s commitment to quality masonry in El Paso. Local expertise, transparent pricing, and reliable service."
+      },
+      "services": {
+        "title": "Our Services | El Paso Masonry Experts",
+        "description": "Comprehensive masonry services in El Paso: brick, stone, stucco, concrete block, retaining walls, chimney repair. Contact us for a free quote!"
+      },
+      "contact": {
+        "title": "Contact Us | Tony Avila Rockwall, Inc.",
+        "description": "Contact Tony Avila Rockwall, Inc. for your masonry needs in El Paso, TX. Get a free consultation and reliable service. Call +19153134706."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Tony Avila Rockwall, Inc.",
+        "description": "Read reviews from satisfied customers in El Paso. See why Tony Avila Rockwall, Inc. is the trusted choice for masonry projects."
+      },
+      "service-areas": {
+        "title": "Service Areas | Tony Avila Rockwall, Inc.",
+        "description": "Tony Avila Rockwall, Inc. provides masonry services in El Paso and surrounding areas. Check our service area and contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "brick-masonry": "/images/service-brick-masonry.webp",
+      "stone-masonry": "/images/service-stone-masonry.webp",
+      "concrete-block-masonry": "/images/service-concrete-block-masonry.webp",
+      "stucco": "/images/service-stucco.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "chimney-repair": "/images/service-chimney-repair.webp"
+    },
+    "servicesResponsive": {
+      "brick-masonry": {
+        "src": "/images/service-brick-masonry.webp",
+        "srcset": "/images/service-brick-masonry-400w.webp 400w, /images/service-brick-masonry-800w.webp 800w, /images/service-brick-masonry-1200w.webp 1200w, /images/service-brick-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stone-masonry": {
+        "src": "/images/service-stone-masonry.webp",
+        "srcset": "/images/service-stone-masonry-400w.webp 400w, /images/service-stone-masonry-800w.webp 800w, /images/service-stone-masonry-1200w.webp 1200w, /images/service-stone-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-block-masonry": {
+        "src": "/images/service-concrete-block-masonry.webp",
+        "srcset": "/images/service-concrete-block-masonry-400w.webp 400w, /images/service-concrete-block-masonry-800w.webp 800w, /images/service-concrete-block-masonry-1200w.webp 1200w, /images/service-concrete-block-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stucco": {
+        "src": "/images/service-stucco.webp",
+        "srcset": "/images/service-stucco-400w.webp 400w, /images/service-stucco-800w.webp 800w, /images/service-stucco-1200w.webp 1200w, /images/service-stucco.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chimney-repair": {
+        "src": "/images/service-chimney-repair.webp",
+        "srcset": "/images/service-chimney-repair-400w.webp 400w, /images/service-chimney-repair-800w.webp 800w, /images/service-chimney-repair-1200w.webp 1200w, /images/service-chimney-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-tony-avila-rockwall-inc.dream-surge.com/sitemap-index.xml
